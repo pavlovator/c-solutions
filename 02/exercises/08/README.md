@@ -5,4 +5,4 @@ answer=(3*q-p*p)/3;
 ```
 
 ### Solution
-There are thirteen tokens in the statement, six of which are non-unique.
+There are 14 tokens in the statement, six of which are non-unique.
